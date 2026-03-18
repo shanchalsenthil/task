@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 File1 initial content
 Main branch change
 Feature change
 
+=======
+This is my first file
+This is a new line
+Feature branch update
+>>>>>>> b10d6d359496d0d2cca2e54fc0e7cb378bd4cb5a
